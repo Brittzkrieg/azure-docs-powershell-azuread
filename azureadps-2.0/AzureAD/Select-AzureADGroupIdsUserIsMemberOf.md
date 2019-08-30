@@ -21,7 +21,7 @@ Select-AzureADGroupIdsUserIsMemberOf -ObjectId <String>
 ```
 
 ## DESCRIPTION
-The **Select-AzureADGroupIdsUserIsMemberOf** cmdlet selects the groups that a user is a member of in Azure Actve Directory (AD).
+The **Select-AzureADGroupIdsUserIsMemberOf** cmdlet selects the groups that a user is a member of in Azure Active Directory (AD).
 
 ## EXAMPLES
 
